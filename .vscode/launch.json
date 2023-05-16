@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MqtestApplication<mqtest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "se.arbetsformedlingen.mqtest.MqtestApplication",
+            "projectName": "mqtest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
